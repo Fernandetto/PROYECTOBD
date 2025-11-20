@@ -58,6 +58,8 @@ logs/
 
 # Claude Code
 .claude/
+CLAUDE.md
+instrucciones.txt
 
 # Azure
 .azure/
