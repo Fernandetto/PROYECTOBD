@@ -76,8 +76,7 @@ cd PROYECTOBD
 
 ### 2. Configurar variables de entorno
 
-Crear un archivo `.env` basado en `.env.example`:
-
+Crear un archivo `.env` 
 ```bash
 cp .env.example .env
 ```
